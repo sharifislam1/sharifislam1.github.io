@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nora Loose"
+  name             : "Sharif Islam"
   avatar           : "/assets/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Global and Regional Ocean Modeling, Machine Learning, Mesoscale Eddy Parameterizations, Scientific Software Development, Adjoint Modeling, Data Assimilation, Uncertainty Quantification"
-  location         : "Boulder, Colorado"
-  email            : "nora@cworthy.org"
+  location         : "Cambridge, MA"
+  email            : "shariful@media.mit.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,24 +91,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NoraLoose"
+  github           : "sharifislam1"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "nora-loose-44a39a96"
+  linkedin         : "sharif-islam-874390148"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : 
+  steam            : 
   tumblr           :
-  twitter          :
+  twitter          : "Sharif_Sany"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : "0000-0002-3684-9634"
+  youtube          : 
+  orcid            : "0000-0001-5220-5970"
+  googlescholar    : "https://scholar.google.com/citations?user=oVlX_IwAAAAJ&hl=en"
 
 
 # Reading Files
