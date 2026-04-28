@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/DP_Islam.JPG" width="340px" alt="Nora Loose" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<img src="/assets/images/DP_Islam.JPG" width="300px" alt="Sharif Islam" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
 
 # About
 
