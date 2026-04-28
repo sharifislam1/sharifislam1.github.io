@@ -1,4 +1,4 @@
-# Nora Loose's website
+# Sharif Islam's website
 
 ## Credits
 
