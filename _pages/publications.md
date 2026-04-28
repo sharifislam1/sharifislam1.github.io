@@ -26,7 +26,7 @@ author_profile: true
 
 ## Thesis
 
-| <a href="/assets/images/SPNA.png"><img src="/assets/images/SPNA.png" width="600px" alt=""> | **Islam, M.S.** (2023). Coastal Erosion Hazard in Bangladesh: Space-time pattern analysis and empirical forecasting, impacts on land use/cover, and human risk perception, _Ph.D. Dissertation_, Virginia Polytechnic Institute and State University, United States. [https://vtechworks.lib.vt.edu/items/c75d5709-a63d-4d25-aebd-d0cacc6b21ef](https://vtechworks.lib.vt.edu/items/c75d5709-a63d-4d25-aebd-d0cacc6b21ef).|
+| <a href="/assets/images/SPNA.png"><img src="/assets/images/Coastal.jpg" width="600px" alt=""> | **Islam, M.S.** (2023). Coastal Erosion Hazard in Bangladesh: Space-time pattern analysis and empirical forecasting, impacts on land use/cover, and human risk perception, _Ph.D. Dissertation_, Virginia Polytechnic Institute and State University, United States. [https://vtechworks.lib.vt.edu/items/c75d5709-a63d-4d25-aebd-d0cacc6b21ef](https://vtechworks.lib.vt.edu/items/c75d5709-a63d-4d25-aebd-d0cacc6b21ef).|
 
 
 
